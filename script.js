@@ -7,7 +7,7 @@ let userMessage=null
 
 //const Api_url = "https://api.openai.com/v1/chat/completions"; // Example for OpenAI's chat API
 const apiKey = "YOUR_API_KEY_HERE"; // Make sure to keep this secure
-const Api_url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyDx6FPCiZ7k4hOlsfDDsNnJGXWc1MYmYhA";
+const Api_url = ;
 
 function createChatBox(html,className){
 const div=document.createElement("div")
